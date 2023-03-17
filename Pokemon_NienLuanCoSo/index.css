@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+
+.main {
+    width: 1024px;
+    height: 576px;
+    background-color: white;
+    background-image: url(./img/background.gif);
+}
+
+
+.main-img {
+    width: 1024px;
+    height: 576px;
+}
+
+.play-button-img {
+    padding-left: 349px;
+    padding-top: 100px;
+}
+
+
+.choose_character {
+    padding: 200px 300px 300px 300px;
+}
+
+.button_choose_character {
+    background-color: rgb(220, 185, 138);
+    border-radius: 5px;
+    width: 200px;
+    height: auto;
+    border: 4px solid rgb(173, 126, 95);
+}
+
+
+
+
